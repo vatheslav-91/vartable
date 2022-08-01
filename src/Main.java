@@ -91,6 +91,5 @@ public class Main {
         System.out.println("В год зарплата Кристины повысилась за счет премии на  " + premiakristina + " рублей");
         var ozpkristina = premiakristina + zpkristina;
         System.out.println("Общая зарплата Кристины за год,с учетом премии  " + ozpkristina + " рублей");
-
     }
 }
